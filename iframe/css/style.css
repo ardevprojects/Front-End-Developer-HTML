@@ -1,3 +1,22 @@
 body {
-    background: https: //www.google.com/url?sa=i&url=https%3A%2F%2Fdecentfellowfilms.wordpress.com%2F2017%2F04%2F20%2Fmy-5-rules-for-the-cinema%2F&psig=AOvVaw2RqAR4Y-SQ7vyBj-qvFIiY&ust=1667472851540000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOCsl-Wqj_sCFQAAAAAdAAAAABAI;
+    /* background-image: url("Images/cine.jpg"); */
+    /* background-image: url(".images/cine.jpg"); */
+    background-image: url("../images/cine.jpg");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: black;
+    color: aliceblue;
+    align-items: center;
+    width: 100%;
+    float: left;
+    text-align: center;
+}
+
+iframe {
+    width: 800px;
+    height: 400px;
+    margin: 0 auto;
+    /* height: 2em; */
+    text-align: center;
 }
